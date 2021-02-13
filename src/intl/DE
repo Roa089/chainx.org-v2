@@ -1,0 +1,120 @@
+{
+
+  "Wallet": "Wallet",
+
+  "Explorer": "Explorer",
+
+  "Telemetrie": "Telemetrie",
+
+  "Hilfe": "Hilfe",
+
+
+  "Die Aufwertung von Bitcoin": "Die Aufwertung von Bitcoin",
+
+  "Als eines der ersten Projekte im Polkadot Ökosystem engagiert sich ChainX für die Verbreitung, Forschung und Anwendung der Bitcoin Layer 2 Lösung, den Ausbau des digitalen Asset Portals und der Entwicklung zur Polkadot Second Layer Relay Chain. Damit erweist sich ChainX als echter Pionier in der Entwicklung einer interoperablen Bitcoin Blockchain mit DeFi.": "Als eines der ersten Projekte im Polkadot Ökosystem engagiert sich ChainX für die Verbreitung, Forschung und Anwendung der Bitcoin Layer 2 Lösung, den Ausbau des digitalen Asset Portals und der Entwicklung zur Polkadot Second Layer Relay Chain. Damit erweist sich ChainX als echter Pionier in der Entwicklung einer interoperablen Bitcoin Blockchain mit DeFi.",
+
+  "White Paper": "White Paper",
+
+  "Bitcoin’s Finanzplattform": "Bitcoin’s Finanzplattform",
+
+  "Bitcoin ist der Schlüssel zur Welt der digitalen Währungen und auf gutem Wege eine Marktkapitalisierung von 1 Billionen US$ zu erreichen. Sein Nutzwert ermöglicht es weiterführende und tiefgreifende Fortschritte in der Blockchain Technologie voranzutreiben. Dadurch bestätigt sich Bitcoin als Zahlungsmittel und erstklassige Art der Wertspeicherung. In Bezug auf das mögliche Potenzial ist erst die Spitze des Eisbergs zu sehen.": "Bitcoin ist der Schlüssel zur Welt der digitalen Währungen und auf gutem Wege eine Marktkapitalisierung von 1 Billionen US$ zu erreichen. Sein Nutzwert ermöglicht es weiterführende und tiefgreifende Fortschritte in der Blockchain Technologie voranzutreiben. Dadurch bestätigt sich Bitcoin als Zahlungsmittel und erstklassige Art der Wertspeicherung. In Bezug auf das mögliche Potenzial ist erst die Spitze des Eisbergs zu sehen.",
+
+  "Die Erforschung und Erweiterung der Bitcoin Finanzplattform auf Layer 2 Ebene durch ChainX fördert den Kapitalfluss und den Ausbau derivativer Möglichkeiten.": "Die Erforschung und Erweiterung der Bitcoin Finanzplattform auf Layer 2 Ebene durch ChainX fördert den Kapitalfluss und den Ausbau derivativer Möglichkeiten.",
+
+  "Digitales Vermögensportal": "Digitales Vermögensportal",
+
+  "Das digitale Vermögensportal von ChainX besteht aus der dezentralen Treuhänderschaft und einer Inter-Chain Asset Spiegelung von Bitcoin. Für Transaktionen mit unterschiedlichen Kryptowährungen auf der ChainX Blockchain können Nutzer ihre Bitcoins gegen X-BTC verpfänden.": "Das digitale Vermögensportal von ChainX besteht aus der dezentralen Treuhänderschaft und einer Inter-Chain Asset Spiegelung von Bitcoin. Für Transaktionen mit unterschiedlichen Kryptowährungen auf der ChainX Blockchain können Nutzer ihre Bitcoins gegen X-BTC verpfänden.",
+
+
+  "Polkadot‘s Second-Layer Relay Chain": "Polkadot‘s Second-Layer Relay Chain",
+
+  "Mit Hilfe von unterschiedlichen Blockchain Technologien können Parachains mit Applikationen entwickelt werden. Relay Chains sind dafür verantwortlich, die gemeinsame Nutzung des Polkadot Netzwerks zu sichern und Inter-Chain-Transaktionen zwischen Parachains zu ermöglichen. Die Relay Chain stellt keine Applikationen zu Verfügung.": "Mit Hilfe von unterschiedlichen Blockchain Technologien können Parachains mit Applikationen entwickelt werden. Relay Chains sind dafür verantwortlich, die gemeinsame Nutzung des Polkadot Netzwerks zu sichern und Inter-Chain-Transaktionen zwischen Parachains zu ermöglichen. Die Relay Chain stellt keine Applikationen zu Verfügung.",
+
+  "Polkadot hebt die gesamte Blockchain Entwicklung innerhalb des Ökosystems durch effiziente Inter-chain Verbindungen auf ein neues Level und ebnet den Weg für die Ära der Blockchain 3.0. ChainX wird nach der Veröffentlichung der Version 2.0 als Second-Layer Relay Chain von Polkadot agieren.": "Polkadot hebt die gesamte Blockchain Entwicklung innerhalb des Ökosystems durch effiziente Inter-chain Verbindungen auf ein neues Level und ebnet den Weg für die Ära der Blockchain 3.0. ChainX wird nach der Veröffentlichung der Version 2.0 als Second-Layer Relay Chain von Polkadot agieren.",
+
+  "System Architektur": "System Architektur",
+
+  "ChainX 2.0 kombiniert und koordiniert verschiedene Funktionen wie den hybriden PoS Konsens, On-Chain Council Governance, Virtuelle Maschine (WASM), Ausführung von Smart Contracts, effizientes Light-Client Protokoll, Off-Chain Worker und Multi-Signaturen. Die Systemarchitektur von ChainX 2.0 ist kompatibel zu Polkadot.": "ChainX 2.0 kombiniert und koordiniert verschiedene Funktionen wie den hybriden PoS Konsens, On-Chain Council Governance, Virtuelle Maschine (WASM), Ausführung von Smart Contracts, effizientes Light-Client Protokoll, Off-Chain Worker und Multi-Signaturen. Die Systemarchitektur von ChainX 2.0 ist kompatibel zu Polkadot.",
+
+  "PCX Token Modul": "PCX Token Modul",
+
+  "Das Modul basiert auf dem ursprünglichen PCX Token. Zum größten Teil umfasst es Funktionen, die von PCX ausgeführt werden. Dies sind z.B. Staking, Gebühren, On-Chain Governance, Verteilung von Inter-Chain Mining Rewards und Unterstützung von Bitcoin-Finanzderivaten. ": "Das Modul basiert auf dem ursprünglichen PCX Token. Zum größten Teil umfasst es Funktionen, die von PCX ausgeführt werden. Dies sind z.B. Staking, Gebühren, On-Chain Governance, Verteilung von Inter-Chain Mining Rewards und Unterstützung von Bitcoin-Finanzderivaten.",
+
+  "DEX Modul": "DEX Modul",
+
+  "Als interoperables Transaktionsmodul erleichtert es den Umlauf von Assets auf verschiedenen Blockchains bei gleichzeitiger Minimierung der Transaktionskosten.": "Als interoperables Transaktionsmodul erleichtert es den Umlauf von Assets auf verschiedenen Blockchains bei gleichzeitiger Minimierung der Transaktionskosten.",
+
+  "Inter-Chain Modul": "Inter-Chain Modul",
+
+  "Dieses Modul bietet den Ein- und Ausstieg für verschiedene Blockchain Assets und X-Token. Es umfasst ein System zur Überprüfung von Transaktionen zwischen den Blockchains, ein On-Chain Minting- und Treuhandprogramm.": "Dieses Modul bietet den Ein- und Ausstieg für verschiedene Blockchain Assets und X-Token. Es umfasst ein System zur Überprüfung von Transaktionen zwischen den Blockchains, ein On-Chain Minting- und Treuhandprogramm.",
+
+  "Relay-Chain Modul": "Relay-Chain Modul",
+
+  "Das Modul bietet die Möglichkeit des Informationsaustausches sowie die Verifizierung zwischen ChainX und externen Blockchains. Es besteht in erster Linie aus einem Programm zur Erfassung und Aktualisierung von Blockchain Informationen sowie einem Monitoring Programm.": "Das Modul bietet die Möglichkeit des Informationsaustausches sowie die Verifizierung zwischen ChainX und externen Blockchains. Es besteht in erster Linie aus einem Programm zur Erfassung und Aktualisierung von Blockchain Informationen sowie einem Monitoring Programm.",
+
+  "Ökonomisches System": "Ökonomisches System",
+
+  "Die Kryptowährung PCX (Polkadot ChainX) wurde von ChainX gelauncht und besitzt eine Gesamtmenge von insgesamt 21 Millionen Token. Die Menge der generierten Tokens wird alle zwei Jahre oder 210.000 Zyklen halbiert (Halvening). Pro Zyklus werden 50 PCX als Reward herausgegeben. Dabei erhält das PolkaX Team 20% der Token vor dem ersten Halvening für die weiterführende Projektentwicklung. Dies entspricht 10% der Gesamtmenge der PCX Token. 90% werden über das Mining als Reward an die Community herausgegeben. Ab dem ersten Halvening beträgt der Reward 25 PCX pro Zyklus.": "Die Kryptowährung PCX (Polkadot ChainX) wurde von ChainX gelauncht und besitzt eine Gesamtmenge von insgesamt 21 Millionen Token. Die Menge der generierten Tokens wird alle zwei Jahre oder 210.000 Zyklen halbiert (Halvening). Pro Zyklus werden 50 PCX als Reward herausgegeben. Dabei erhält das PolkaX Team 20% der Token vor dem ersten Halvening für die weiterführende Projektentwicklung. Dies entspricht 10% der Gesamtmenge der PCX Token. 90% werden über das Mining als Reward an die Community herausgegeben. Ab dem ersten Halvening beträgt der Reward 25 PCX pro Zyklus.",
+
+  "Detail": "Detail",
+
+  "Konsens-Algorithmus": "Konsens-Algorithmus",
+
+  "ChainX übernimmt den BABE+GRANDPA Hybridkonsens. Dies ist Polkadot‘s neuer Mechanismus dessen bedeutendste Eigenschaft die Trennung von Blockbestätigung und Blockerzeugung ist. Das Modul BABE (Blind Assignment for Blockchain Extension) unterteilt die Zeit in Epochen und diese in Blöcke, welche alle 6 Sekunden generiert werden. Dagegen nimmt GRANDPA (GHOST-based Recursive ANcestor Deriving Prefix Agreement) die endgültige Blockbestätigung vor.": "ChainX übernimmt den BABE+GRANDPA Hybridkonsens. Dies ist Polkadot‘s neuer Mechanismus dessen bedeutendste Eigenschaft die Trennung von Blockbestätigung und Blockerzeugung ist. Das Modul BABE (Blind Assignment for Blockchain Extension) unterteilt die Zeit in Epochen und diese in Blöcke, welche alle 6 Sekunden generiert werden. Dagegen nimmt GRANDPA (GHOST-based Recursive ANcestor Deriving Prefix Agreement) die endgültige Blockbestätigung vor.",
+
+  "Autonomie der Gemeinschaft": "Autonomie der Gemeinschaft",
+
+  "Auf Empfehlung von Polkadot wurde für ChainX eine Drei-Ministerien Governance Struktur als dezentralisierte Verwaltung der Community beschlossen. Die drei Ministerien bestehen aus einem Referendum, einem Rat und einem technischen Komitee. Eine Treasury schafft Anreize für Gruppen und Einzelpersonen, die zur ökologischen Entwicklung von ChainX beitragen. Ebenso wird die X-Association eingeführt, eine gemeinnützige Organisation, welche für die Technologie und Weiterentwicklung der Community verantwortlich ist.": "Auf Empfehlung von Polkadot wurde für ChainX eine Drei-Ministerien Governance Struktur als dezentralisierte Verwaltung der Community beschlossen. Die drei Ministerien bestehen aus einem Referendum, einem Rat und einem technischen Komitee. Eine Treasury schafft Anreize für Gruppen und Einzelpersonen, die zur ökologischen Entwicklung von ChainX beitragen. Ebenso wird die X-Association eingeführt, eine gemeinnützige Organisation, welche für die Technologie und Weiterentwicklung der Community verantwortlich ist.",
+
+
+  "Roadmap": "Roadmap",
+
+  "2021.01": "2021.01",
+
+  "Veröffentlichung vom White Paper 2.0": "Veröffentlichung vom White Paper 2.0",
+
+  "2021.02": "2021.02",
+
+  "Veröffentlichung des White Papers von SherpaX": "Veröffentlichung des White Papers von SherpaX",
+  
+  "2021.03": "2021.03",
+
+  "Beginn der SherpaX Testphase auf Kusama": "Beginn der SherpaX Testphase auf Kusama",
+  
+  "2021.04": "2021.04",
+
+  "Teilnahme von SherpaX an der Kusama Slot Auktion": "Teilnahme von SherpaX an der Kusama Slot Auktion",
+  
+  "2021.05": "2021.05",
+
+  "Teilnahme von ChainX an der Polkadot Slot Auktion": "Teilnahme von ChainX an der Polkadot Slot Auktion",
+  
+  "2021.05": "2021.05",
+
+  "Start des X-BTC 2.0 Treuhandprogramms. Erstes Halvening von PCX": "Start des X-BTC 2.0 Treuhandprogramms. Erstes Halvening von PCX",
+  
+  "2021.07": "2021.07",
+  
+  "Cross X-BTC auf der ChainX-Polkadot Parachain": "Cross X-BTC auf der ChainX-Polkadot Parachain",
+  
+  "2021.08": "2021.08",
+
+  "Start des X-BTC 3.0 Treuhandprogramms": "Start des X-BTC 3.0 Treuhandprogramms",
+  
+  "2021.10": "2021.10",
+
+  "Aktivierung der X-BTC Inter-Chain Spiegelung auf der SherpaX-Kusama Parachain": "Aktivierung der X-BTC Inter-Chain Spiegelung auf der SherpaX-Kusama Parachain",
+  
+  "2021.10": "2021.10",
+
+  "Aktivierung der X-BTC Inter-Chain Spiegelung auf der ChainX-Polkadot Parachain": "Aktivierung der X-BTC Inter-Chain Spiegelung auf der ChainX-Polkadot Parachain",
+  
+  "2021.12": "2021.12",
+
+  "Start des X-BTC 4.0 Treuhandprogramms": "Start des X-BTC 4.0 Treuhandprogramms",
+  
+  "2022": "2022",
+
+  "Freigabe der Second-Layer Relay Chain": "Freigabe der Second-Layer Relay Chain",
+
+}
